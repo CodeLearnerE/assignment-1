@@ -1,0 +1,230 @@
+.row,.container-fluid, .col-md-12 {
+	margin:0px;
+	padding: 0px;
+}
+
+.first {
+	height: 680px;
+	background:url(img/bg1.jpg);
+}
+
+.icons {
+	word-spacing: -30px;
+	height: 70px;
+}
+
+.logo {
+	height: 85px;
+	background-color: #1A718C;
+}
+
+.heci {
+	margin,padding: 0px;
+	height: 85px;
+	background-color: #1A718C;
+}
+
+.heci a {
+	text-decoration: none;
+	color:white;
+	font-size: 16px;
+	transition: all 0.5s ease;
+	text-transform:uppercase;
+}
+
+.nav li a {
+line-height: 55px;
+padding-bottom: 13px;
+padding-right: 16px;
+}
+
+.nav {
+	margin-right: 195px;
+}
+
+.heci a:hover {
+
+	background-color: #EAF2F3;
+	color: #1A718C;
+}
+
+.particle {
+		margin-top: 400px;
+		width: 500px;
+		height: 180px;
+		padding: 25px;
+		background-color: black;
+		opacity: 0.5;
+}
+
+.particle p {
+	font-size: 24px;
+	margin-left: 20px;
+	color:#D7DCDE; 
+	font-family: serif;
+	margin-top: 15px;
+	opacity: 10;
+}
+
+
+i {
+	color: white;
+	padding: 20px;
+}
+
+.second {
+	background: url(img/event-bg.jpg);
+	height: 350px;
+	background-color: orange;
+}
+
+.second img {
+	margin-top: 20px;
+}
+
+.shekil {
+	float: left;
+	width: 360px;
+	height: 350px;
+
+}
+.text {
+	float: left;
+	width: 365px;
+	height: 200px;
+	margin-top: 150px;
+	color:#EAF2F3; 
+}
+
+.data {
+	display: inline-block;
+	width: 80px;
+	height: 90px;
+	border:1px solid black;
+	margin-left: 30px;
+	border-radius: 10px;
+	color: #EAF2F3;
+	font-size: 40px;
+	text-align: center;
+	padding-top: 15px;
+}
+
+.rightside {
+	float: left;
+	margin-left: 70px;
+	margin-top: 140px;
+}
+
+.time {
+
+	font-size: 18px;
+}
+
+.third {
+	background:url(img/performar-bg.jpg)no-repeat;
+	background-size: cover;
+	height: 517px;
+	width: 100%
+	background-color: lightblue;
+	overflow: hidden;
+}
+
+.toplayer {
+	height: 170px;
+}
+
+.photolar {
+	margin-left: 100px;
+	width: 930px;
+}
+
+.photo {
+	float: left;
+	margin-left: 30px;
+}
+
+h4 {
+	margin-top: 25px;
+	color: #EAF2F3;
+}
+h5 {
+	color: #EAF2F3;
+}
+
+.guitar2 {
+width: 617px;
+}
+
+.fourth {
+	height: 453px;
+}
+
+.about {
+	text-align: justify;
+	background:url(img/about-bg.jpg);
+	float: left;
+	width: 881px;
+	height: 453px;
+}
+
+.internaldiv {
+	color: #EAF2F3;
+	float: right;
+	margin-top: 100px;
+	margin-right: 75px;
+	width: 700px;
+	height: 235px;
+}
+
+
+.fifth {
+	background:url(img/twitter-bg.jpg);
+	height: 380px;
+}
+
+.twitter {
+	float: left;
+	width: 600px;
+	margin-top: 20px;
+}
+
+.middle {
+	width: 585px;
+	height: 138px;
+	margin-top: 80px;
+	float: left;
+	font-size: 18px;
+}
+
+.sponsors {
+	background: url(img/sponsor-bg.jpg);
+	height: 500px;
+}
+
+.seventh {
+	background: url(img/map.png);
+	background-color: red;
+	height: 400px;
+}
+
+.beforefooter {
+	background: url(img/contact-bg.jpg);
+	height: 505px;
+	background-color: pink;
+}
+
+.footer {
+	background: url(img/footer-bg.jpg);
+	height: 150px;
+	background-color: purple;
+}
+
+.link {
+	color:#F4A823; 
+}
+.sonparagraph {
+	text-align: center;
+	color: white;
+	font-size: 18px;
+	margin-top: 50px;
+}
